@@ -2,16 +2,9 @@ Hi, call me Agley 👋😀, I'm a Software Engineer
 
 
 I focus on Node.JS and React using text typescript, I like to explore things modern tools that lead to new and innovative solutions
-<!-- 
-<div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agleymelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agleymelo&layout=compact&langs_count=7&theme=dark"/>
-</div> -->
-
 ##
 
-Language I use on a daily basis
+Language I use on a daily basis:
 
   - <img align="center" alt="Agley-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> TypeScript
   - <img align="center" alt="Node-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> Node.Js
@@ -27,5 +20,5 @@ Language I use on a daily basis
   <a href="https://twitter.com/agleyx" target="_blank"></a><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   <a href="https://twitch.tv/agleyx" target="_blank"></a><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   
-  
+  ![Snake animation](https://github.com/agleymelo/agleymelo/blob/output/github-contribution-grid-snake.svg)
 </div>
