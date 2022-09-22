@@ -16,5 +16,6 @@ Language I use on a daily basis:
 <div>
   <a href="https://www.linkedin.com/in/agleylson" target="_blank"></a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-   badge&logo=linkedin&logoColor=white" />
   <a href="mailto:agleylson1997@gmail.com"></a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  
   ![Snake animation](https://github.com/agleymelo/agleymelo/blob/output/github-contribution-grid-snake.svg)
 </div>
