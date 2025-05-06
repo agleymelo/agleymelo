@@ -1,22 +1,29 @@
-# Welcome!
+# 👋 Hey, I'm Agleylson Melo!
 
-## I'm Agleylson Melo, call me Agley 👋😀.
+I'm a passionate developer focused on building high-quality web applications using modern, scalable technologies. Currently, I'm working on a full-featured SaaS platform that will soon be open-source — stay tuned!
 
-👨🏼‍💻 I'm Front-End Developer!
+## 🛠️ Current Stack
 
-## About me
+- **Frameworks:** Next.js, Node.js
+- **Languages:** TypeScript, JavaScript
+- **ORM:** Drizzle ORM
+- **Auth:** Stack Auth
+- **Database:** PostgreSQL
+- **Runtime:** Bun
+- **Styling:** Tailwind CSS, Shadcn UI
+- **Others:** React Query, Radix UI, OpenAI APIs
 
-I'm currently focused on React, Node.JS using JavaScript or TypeScript, I like to always try new things, challenge myself and create new and innovative solutions.
+## 📈 What I'm Currently Working On
 
-Take a look at my github, you will find cool projects 😀
+- Building modern full-stack apps using **Next.js + TypeScript**
+- Improving my **API design** and **automated testing** skills
+- Exploring **AI integrations** for real-time web apps
 
-## My Social Medias
+## 🚀 Coming Soon
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agleymelo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agleymelo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agleylson-silva/)
+I'm developing a new SaaS platform that will soon be released as open source.  
+You'll be able to explore the code and contribute directly here on GitHub!
 
+## 📫 Let's Connect
 
-- Thanks for visiting.
-
-- Enjoy it!! o/
+- [LinkedIn](https://www.linkedin.com/in/agleylson-silva/)
