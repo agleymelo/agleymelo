@@ -26,4 +26,4 @@ You'll be able to explore the code and contribute directly here on GitHub!
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/agleylson-silva/)
+- [LinkedIn](https://www.linkedin.com/in/agleylson)
